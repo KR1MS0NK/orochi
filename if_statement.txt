@@ -1,0 +1,5 @@
+choice = 1
+if choice == 1:
+    print("high")
+else:
+    print("low")
